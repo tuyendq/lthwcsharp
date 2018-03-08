@@ -1,0 +1,10 @@
+/Users/practicehabits/github/lthwcsharp/classes/bin/Debug/netcoreapp2.0/classes.deps.json
+/Users/practicehabits/github/lthwcsharp/classes/bin/Debug/netcoreapp2.0/classes.runtimeconfig.json
+/Users/practicehabits/github/lthwcsharp/classes/bin/Debug/netcoreapp2.0/classes.runtimeconfig.dev.json
+/Users/practicehabits/github/lthwcsharp/classes/bin/Debug/netcoreapp2.0/classes.dll
+/Users/practicehabits/github/lthwcsharp/classes/bin/Debug/netcoreapp2.0/classes.pdb
+/Users/practicehabits/github/lthwcsharp/classes/obj/Debug/netcoreapp2.0/classes.csproj.CoreCompileInputs.cache
+/Users/practicehabits/github/lthwcsharp/classes/obj/Debug/netcoreapp2.0/classes.AssemblyInfoInputs.cache
+/Users/practicehabits/github/lthwcsharp/classes/obj/Debug/netcoreapp2.0/classes.AssemblyInfo.cs
+/Users/practicehabits/github/lthwcsharp/classes/obj/Debug/netcoreapp2.0/classes.dll
+/Users/practicehabits/github/lthwcsharp/classes/obj/Debug/netcoreapp2.0/classes.pdb
