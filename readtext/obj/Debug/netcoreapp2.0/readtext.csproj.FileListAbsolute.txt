@@ -1,10 +1,10 @@
+/Users/practicehabits/github/lthwcsharp/readtext/obj/Debug/netcoreapp2.0/readtext.csproj.CoreCompileInputs.cache
+/Users/practicehabits/github/lthwcsharp/readtext/obj/Debug/netcoreapp2.0/readtext.AssemblyInfoInputs.cache
+/Users/practicehabits/github/lthwcsharp/readtext/obj/Debug/netcoreapp2.0/readtext.AssemblyInfo.cs
 /Users/practicehabits/github/lthwcsharp/readtext/bin/Debug/netcoreapp2.0/readtext.deps.json
 /Users/practicehabits/github/lthwcsharp/readtext/bin/Debug/netcoreapp2.0/readtext.runtimeconfig.json
 /Users/practicehabits/github/lthwcsharp/readtext/bin/Debug/netcoreapp2.0/readtext.runtimeconfig.dev.json
 /Users/practicehabits/github/lthwcsharp/readtext/bin/Debug/netcoreapp2.0/readtext.dll
 /Users/practicehabits/github/lthwcsharp/readtext/bin/Debug/netcoreapp2.0/readtext.pdb
-/Users/practicehabits/github/lthwcsharp/readtext/obj/Debug/netcoreapp2.0/readtext.csproj.CoreCompileInputs.cache
-/Users/practicehabits/github/lthwcsharp/readtext/obj/Debug/netcoreapp2.0/readtext.AssemblyInfoInputs.cache
-/Users/practicehabits/github/lthwcsharp/readtext/obj/Debug/netcoreapp2.0/readtext.AssemblyInfo.cs
 /Users/practicehabits/github/lthwcsharp/readtext/obj/Debug/netcoreapp2.0/readtext.dll
 /Users/practicehabits/github/lthwcsharp/readtext/obj/Debug/netcoreapp2.0/readtext.pdb
