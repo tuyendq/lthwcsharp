@@ -7,7 +7,11 @@
             "type": "process",
             "args": [
                 "build",
+<<<<<<< HEAD
                 "${workspaceFolder}/list-quickstart/list-quickstart.csproj"
+=======
+                "${workspaceFolder}/classes/classes.csproj"
+>>>>>>> b148724afa3c0b9a4ab3a8081aa68631ad6c317c
             ],
             "problemMatcher": "$msCompile"
         }
