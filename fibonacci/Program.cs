@@ -1,6 +1,6 @@
 using System;
 
-namespace Fibonaci
+namespace Fibonacci
 {
 	class Program
 	{
@@ -22,6 +22,9 @@ namespace Fibonaci
 			{
 				Console.WriteLine($"{i + 1}: {FibonacciNumber(i)}");
 			}	
+
+			MyClass message = new MyClass();
+			Console.WriteLine($"Favorite quote: \"{message.ReturnMessage()}\"");
 		}
 		
 		static int FibonacciNumber(int n)
