@@ -9,7 +9,7 @@ namespace ACM.BLTest
         public void FullNameTestValid()
         {
             //-- Arrange
-            CustomerTest customer = new CustomerTest();
+            Customer customer = new Customer();
             customer.FirstName = "Tuyen";
             customer.LastName = "Dang";
             string expected = "Tuyen, Dang";
