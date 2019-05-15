@@ -24,7 +24,16 @@ namespace ACM.BL
         {
             get
             {
-                return FirstName + ", " + LastName;
+                string fullName = LastName;
+                if (!string.IsNullOrEmpty(FirstName))
+                {
+                    if (!string.IsNullOrEmpty(fullName))
+                    {
+                        fullName += ", ";
+                    }
+                    fullName += FirstName;
+                }
+                return fullName;
             }
         }
         
