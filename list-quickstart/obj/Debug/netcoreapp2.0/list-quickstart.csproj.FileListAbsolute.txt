@@ -8,3 +8,4 @@ F:\Projects\github\lthwcsharp\list-quickstart\obj\Debug\netcoreapp2.0\list-quick
 F:\Projects\github\lthwcsharp\list-quickstart\obj\Debug\netcoreapp2.0\list-quickstart.AssemblyInfo.cs
 F:\Projects\github\lthwcsharp\list-quickstart\obj\Debug\netcoreapp2.0\list-quickstart.dll
 F:\Projects\github\lthwcsharp\list-quickstart\obj\Debug\netcoreapp2.0\list-quickstart.pdb
+F:\Projects\github\lthwcsharp\list-quickstart\obj\Debug\netcoreapp2.0\list-quickstart.csprojAssemblyReference.cache
