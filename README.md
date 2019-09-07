@@ -4,3 +4,5 @@ A clone of [Learn The Hard Way](https://learnthehardway.org) series by Zed A. Sh
 ## Exercise 0: The Setup
 
 ## Exercise 1: 
+
+## Delegate:
