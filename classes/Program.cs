@@ -39,6 +39,11 @@ namespace classes
 
             // Report all transactions
             Console.WriteLine(account.GetAccountHistory());
+
+
+            // Play with Book class
+            Book book1 = new Book("The Alchemist", "Paulo Coelho", 172);
+            System.Console.WriteLine(book1.GetDescription());
         }
     }
 }
