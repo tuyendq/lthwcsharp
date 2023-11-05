@@ -11,3 +11,9 @@ System.Console.WriteLine($"byte     : {byte.MinValue} to {byte.MaxValue}\t\t\t\t
 System.Console.WriteLine($"ushort   : {ushort.MinValue} to {ushort.MaxValue}\t\t\t\t\t\t{sizeof(ushort)} byte(s)");
 System.Console.WriteLine($"uint     : {uint.MinValue} to {uint.MaxValue}\t\t\t\t\t{sizeof(uint)} byte(s)");
 System.Console.WriteLine($"ulong    : {ulong.MinValue} to {ulong.MaxValue}\t\t\t\t{sizeof(ulong)} byte(s)");
+
+System.Console.WriteLine("Floating point types:");
+
+System.Console.WriteLine($"float      : {float.MinValue} to {float.MaxValue}\t\t\t\t\t{sizeof(float)} byte(s)");
+System.Console.WriteLine($"double      : {double.MinValue} to {double.MaxValue}\t\t{sizeof(double)} byte(s)");
+System.Console.WriteLine($"decimal      : {decimal.MinValue} to {decimal.MaxValue}\t{sizeof(decimal)} byte(s)");
