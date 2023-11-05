@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace ModifiersDemo
+{
+    class Program
+    {
+        static void Main() {
+            Account account1 = new Account("Tuyen", "Dang");
+            System.Console.WriteLine(account1.GetOwner());
+        }
+    }
+}
