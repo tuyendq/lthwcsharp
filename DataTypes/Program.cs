@@ -1,4 +1,5 @@
 ﻿System.Console.WriteLine("Numeric data types: There are 11 options to choose.");
+
 System.Console.WriteLine("Signed integral types:");
 
 System.Console.WriteLine($"sbyte    : {sbyte.MinValue} to {sbyte.MaxValue}\t\t\t\t\t\t{sizeof(sbyte)} byte(s)");
